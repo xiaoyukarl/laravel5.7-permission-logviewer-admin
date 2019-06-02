@@ -1,5 +1,1 @@
-laravel5.7
-
-此
-- [1Forge](https://1forge.com)项目
-- [1Forge](https://1forge.com)
+laravel5.7实现后台管理的项目代码，内部包含laravel-permission和logviewer，将laravel.sql的数据库导入即可使用
